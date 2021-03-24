@@ -1,6 +1,6 @@
 # discord-keyword-purge
 
-Discord tool enabling mods to easily clean up their servers.
+Discord tool enabling mods to easily clean up their servers. This bot will allow you to remove previously sent messages that contain specific words. Great for getting your server in a condition to apply for partner.
 
 ## Install dependancies:
 You will also need to set environmental variables for `DISCORD_BOT_TOKEN` and `DISCORD_USER_ID`
