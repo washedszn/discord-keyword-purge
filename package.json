@@ -1,0 +1,24 @@
+{
+  "name": "discord-keyword-purge",
+  "version": "1.0.0",
+  "description": "Discord tool enabling mods to easily clean up their servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/washedszn/discord-keyword-purge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/washedszn/discord-keyword-purge/issues"
+  },
+  "homepage": "https://github.com/washedszn/discord-keyword-purge#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
